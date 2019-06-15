@@ -87,7 +87,7 @@ task clean(type: Delete) {
 after Sync, <PackageName>.databinding auto generated.
 
 
-## screen shots
+## screenshots
 <div>
 <img src="https://user-images.githubusercontent.com/6063541/59552202-d9137500-8fbe-11e9-9c06-42ff102c77d7.png" width="250">
 <img src="https://user-images.githubusercontent.com/6063541/59552203-dadd3880-8fbe-11e9-9ad4-3b406d8113eb.png" width="250">
